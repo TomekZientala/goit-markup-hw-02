@@ -1,12 +1,20 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF
+  background-color: #ffffff;
 }
-.header-studio{
-  color: #2e2f42;
+.logo-style {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
-
+.logo-style:link {
+  text-decoration: none;
+}
 .filter-button {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -16,12 +24,12 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.header-list{
+.header-list {
   font-family: Roboto;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: letter-spacing: 0.02em;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }
